@@ -4,3 +4,6 @@
 
 Please note that this provider was implemented on Tensorflow r1.0.
 If you come up with any problem on other verison of Tensorflow, please check function of **`process()`** in `dataset.py`. Note that if fucntion of `process` does not work well, `processed_queue` will be closed accidentally.
+
+  Simon X Dong
+  simonxdong@gmail.com
