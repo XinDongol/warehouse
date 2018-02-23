@@ -1,13 +1,9 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-Created on Sun Mar 19 13:22:00 2017
-
-@author: cli
 
 This code is modified from ALI/datasets
 
-https://github.com/IshmaelBelghazi/ALI/blob/master/ali/datasets.py
 
 """
 
