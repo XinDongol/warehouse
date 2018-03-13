@@ -14,6 +14,8 @@
 
 [Other Example-2](https://kratzert.github.io/2017/06/15/example-of-tensorflows-new-input-pipeline.html)
 
+[other Example-3](https://zhuanlan.zhihu.com/p/33223782?utm_medium=social&utm_source=wechat_session)
+
 [Using Queue Runners to Feed Images Directly from Disk](https://github.com/rasbt/deep-learning-book/blob/master/code/model_zoo/tensorflow_ipynb/file-queues.ipynb)
 
 [Official Example-1](https://developers.googleblog.com/2017/09/introducing-tensorflow-datasets.html)
